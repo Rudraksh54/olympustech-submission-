@@ -19,6 +19,7 @@ task2():
    Studying the required materials and collecting data for the design of the CubeSat.
     Designing the various elements of the structure, for example: mechanical, communication system, sensors, etc.
     Collection and presentation of the CubeSat.
+
 task3():
   
   ##descirption 
